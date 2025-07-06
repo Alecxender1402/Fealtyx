@@ -46,7 +46,7 @@ go run .
 ```
 
 The server will start at:
-```bash http://localhost:8080 ```
+``` http://localhost:8080 ```
 
 ---
 
